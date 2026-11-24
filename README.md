@@ -34,6 +34,9 @@ Each repository below holds the code and data behind one paper and reproduces it
 | The safest available annuity? Fiduciary litigation and insurer choice in pension risk transfer | [safest-available-annuity](https://github.com/ilkeraslan/safest-available-annuity) |
 | Accounting rules, currency hedging and external adjustment: evidence from Taiwan's life insurers | [currency-hedging-taiwan-life-insurers](https://github.com/ilkeraslan/currency-hedging-taiwan-life-insurers) |
 | The demand and growth regime of Switzerland: export-led mercantilism under safe-haven pressure | [swiss-growth-regime](https://github.com/ilkeraslan/swiss-growth-regime) |
+| Safe-haven inflows, foreign exchange intervention and domestic credit: evidence from Switzerland and Denmark | [safe-haven-inflows-domestic-credit](https://github.com/ilkeraslan/safe-haven-inflows-domestic-credit) |
+| Monetary tightening, policyholder outflows and insurers' bond sales in the euro area | [insurers-monetary-tightening](https://github.com/ilkeraslan/insurers-monetary-tightening) |
+| Relocating the external constraint: currency risk, corporate fragility and the state in Turkey | [relocating-external-constraint](https://github.com/ilkeraslan/relocating-external-constraint) |
 
 #### Tools
 
