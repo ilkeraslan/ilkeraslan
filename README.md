@@ -37,6 +37,10 @@ Each repository below holds the code and data behind one paper and reproduces it
 | Safe-haven inflows, foreign exchange intervention and domestic credit: evidence from Switzerland and Denmark | [safe-haven-inflows-domestic-credit](https://github.com/ilkeraslan/safe-haven-inflows-domestic-credit) |
 | Monetary tightening, policyholder outflows and insurers' bond sales in the euro area | [insurers-monetary-tightening](https://github.com/ilkeraslan/insurers-monetary-tightening) |
 | Relocating the external constraint: currency risk, corporate fragility and the state in Turkey | [relocating-external-constraint](https://github.com/ilkeraslan/relocating-external-constraint) |
+| Who sets the deduction? Central bank losses and the fiscal cost of monetary tightening | [who-sets-the-deduction](https://github.com/ilkeraslan/who-sets-the-deduction) |
+| Insuring automation risk: Reskilling incentives, correlated displacement, and the price of aggregate cover | [insuring-automation-risk](https://github.com/ilkeraslan/insuring-automation-risk) |
+| Turbulent arbitrage in reinsurance: Regulating capital and the cycle (figure data) | [turbulent-arbitrage-reinsurance](https://github.com/ilkeraslan/turbulent-arbitrage-reinsurance) |
+| Price softening, structural discipline: The reinsurance underwriting cycle after alternative capital (evidence pack) | [price-softening-structural-discipline](https://github.com/ilkeraslan/price-softening-structural-discipline) |
 
 #### Tools
 
